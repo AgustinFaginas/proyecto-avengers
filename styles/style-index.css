@@ -1,5 +1,5 @@
 .fondo{
-    background-color: #cd0c36;
+    background-color: #18012b;
 }
 .contenido{
     margin-top: 50px;
@@ -13,5 +13,11 @@
 
 }
 .fondo-contenido{
-    background-color: #b71c1c;
+    background-color: #2f2252;
+}
+.hela{
+    margin-top: -10px;
+}
+.border-radius{
+    border-radius: 30px;
 }
